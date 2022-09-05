@@ -7,7 +7,7 @@ import (
 	"text/tabwriter"
 	"text/template"
 
-	"github.com/Sherlock-Holo/lightc/libnetwork"
+	"github.com/fuguohong1024/lightc/libnetwork"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 )

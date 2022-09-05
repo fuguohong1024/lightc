@@ -3,8 +3,8 @@ package libexec
 import (
 	"os"
 
-	"github.com/Sherlock-Holo/lightc/info"
-	"github.com/Sherlock-Holo/lightc/libexec/errors"
+	"github.com/fuguohong1024/lightc/info"
+	"github.com/fuguohong1024/lightc/libexec/errors"
 	"golang.org/x/xerrors"
 )
 

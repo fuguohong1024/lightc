@@ -1,7 +1,7 @@
 package cgroups
 
 import (
-	"github.com/Sherlock-Holo/lightc/libexec/cgroups/subsystems"
+	"github.com/fuguohong1024/lightc/libexec/cgroups/subsystems"
 )
 
 type CgroupManager struct {

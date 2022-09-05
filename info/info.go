@@ -11,9 +11,9 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/Sherlock-Holo/lightc/libstorage/rootfs"
-	"github.com/Sherlock-Holo/lightc/libstorage/volume"
-	"github.com/Sherlock-Holo/lightc/paths"
+	"github.com/fuguohong1024/lightc/libstorage/rootfs"
+	"github.com/fuguohong1024/lightc/libstorage/volume"
+	"github.com/fuguohong1024/lightc/paths"
 	"golang.org/x/xerrors"
 )
 

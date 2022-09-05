@@ -1,7 +1,7 @@
 package libexec
 
 import (
-	"github.com/Sherlock-Holo/lightc/libexec/internal/process"
+	"github.com/fuguohong1024/lightc/libexec/internal/process"
 	"golang.org/x/xerrors"
 )
 

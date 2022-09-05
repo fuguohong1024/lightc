@@ -6,9 +6,9 @@ import (
 	"os/exec"
 	"syscall"
 
-	"github.com/Sherlock-Holo/lightc/info"
-	"github.com/Sherlock-Holo/lightc/libexec/internal/pivotRoot"
-	"github.com/Sherlock-Holo/lightc/libstorage/rootfs"
+	"github.com/fuguohong1024/lightc/info"
+	"github.com/fuguohong1024/lightc/libexec/internal/pivotRoot"
+	"github.com/fuguohong1024/lightc/libstorage/rootfs"
 	"golang.org/x/sys/unix"
 	"golang.org/x/xerrors"
 )

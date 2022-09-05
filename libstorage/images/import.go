@@ -4,9 +4,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/Sherlock-Holo/lightc/libstorage/errors"
-	"github.com/Sherlock-Holo/lightc/libstorage/images/internal/tar"
-	"github.com/Sherlock-Holo/lightc/paths"
+	"github.com/fuguohong1024/lightc/libstorage/errors"
+	"github.com/fuguohong1024/lightc/libstorage/images/internal/tar"
+	"github.com/fuguohong1024/lightc/paths"
 	"golang.org/x/xerrors"
 )
 

@@ -1,4 +1,4 @@
-module github.com/Sherlock-Holo/lightc
+module github.com/fuguohong1024/lightc
 
 go 1.12
 

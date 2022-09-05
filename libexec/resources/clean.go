@@ -6,10 +6,10 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/Sherlock-Holo/lightc/info"
-	"github.com/Sherlock-Holo/lightc/libnetwork"
-	"github.com/Sherlock-Holo/lightc/libstorage/rootfs"
-	"github.com/Sherlock-Holo/lightc/libstorage/volume"
+	"github.com/fuguohong1024/lightc/info"
+	"github.com/fuguohong1024/lightc/libnetwork"
+	"github.com/fuguohong1024/lightc/libstorage/rootfs"
+	"github.com/fuguohong1024/lightc/libstorage/volume"
 	"github.com/sirupsen/logrus"
 	"golang.org/x/xerrors"
 )

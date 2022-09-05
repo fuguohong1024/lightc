@@ -1,6 +1,6 @@
 package main
 
-import "github.com/Sherlock-Holo/lightc/cmd"
+import "github.com/fuguohong1024/lightc/cmd"
 
 func main() {
 	cmd.Execute()

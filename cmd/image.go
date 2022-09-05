@@ -5,7 +5,7 @@ import (
 	"text/tabwriter"
 	"text/template"
 
-	"github.com/Sherlock-Holo/lightc/libstorage/images"
+	"github.com/fuguohong1024/lightc/libstorage/images"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 )

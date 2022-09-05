@@ -4,9 +4,9 @@ import (
 	"os"
 	"syscall"
 
-	"github.com/Sherlock-Holo/lightc/info"
-	"github.com/Sherlock-Holo/lightc/libnetwork/internal/ipam"
-	"github.com/Sherlock-Holo/lightc/paths"
+	"github.com/fuguohong1024/lightc/info"
+	"github.com/fuguohong1024/lightc/libnetwork/internal/ipam"
+	"github.com/fuguohong1024/lightc/paths"
 	"github.com/sirupsen/logrus"
 	"golang.org/x/xerrors"
 )

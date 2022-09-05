@@ -10,9 +10,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Sherlock-Holo/lightc/info"
-	"github.com/Sherlock-Holo/lightc/libexec/errors"
-	_ "github.com/Sherlock-Holo/lightc/libexec/internal/nsenter"
+	"github.com/fuguohong1024/lightc/info"
+	"github.com/fuguohong1024/lightc/libexec/errors"
+	_ "github.com/fuguohong1024/lightc/libexec/internal/nsenter"
 	"github.com/kr/pty"
 	"github.com/sirupsen/logrus"
 	"golang.org/x/crypto/ssh/terminal"

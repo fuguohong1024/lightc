@@ -5,10 +5,10 @@ import (
 	"net"
 	"strings"
 
-	"github.com/Sherlock-Holo/lightc/info"
-	"github.com/Sherlock-Holo/lightc/libnetwork/endpoint"
-	"github.com/Sherlock-Holo/lightc/libnetwork/internal/ipam"
 	"github.com/coreos/go-iptables/iptables"
+	"github.com/fuguohong1024/lightc/info"
+	"github.com/fuguohong1024/lightc/libnetwork/endpoint"
+	"github.com/fuguohong1024/lightc/libnetwork/internal/ipam"
 	"github.com/sirupsen/logrus"
 	"golang.org/x/xerrors"
 )

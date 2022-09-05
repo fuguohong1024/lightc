@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 	"syscall"
 
-	"github.com/Sherlock-Holo/lightc/libnetwork/network"
-	"github.com/Sherlock-Holo/lightc/paths"
+	"github.com/fuguohong1024/lightc/libnetwork/network"
+	"github.com/fuguohong1024/lightc/paths"
 	"github.com/sirupsen/logrus"
 	"golang.org/x/xerrors"
 )

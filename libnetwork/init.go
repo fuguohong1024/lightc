@@ -6,9 +6,9 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/Sherlock-Holo/lightc/libnetwork/internal/ipam"
-	"github.com/Sherlock-Holo/lightc/libnetwork/internal/nat"
 	"github.com/coreos/go-iptables/iptables"
+	"github.com/fuguohong1024/lightc/libnetwork/internal/ipam"
+	"github.com/fuguohong1024/lightc/libnetwork/internal/nat"
 	"github.com/sirupsen/logrus"
 	"github.com/vishvananda/netlink"
 	"golang.org/x/xerrors"

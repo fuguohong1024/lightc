@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/Sherlock-Holo/lightc/libexec"
-	"github.com/Sherlock-Holo/lightc/libstorage/rootfs"
-	"github.com/Sherlock-Holo/lightc/libstorage/volume"
+	"github.com/fuguohong1024/lightc/libexec"
+	"github.com/fuguohong1024/lightc/libstorage/rootfs"
+	"github.com/fuguohong1024/lightc/libstorage/volume"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 )

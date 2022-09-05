@@ -5,8 +5,8 @@ import (
 	"io/ioutil"
 	"path/filepath"
 
-	"github.com/Sherlock-Holo/lightc/info"
-	"github.com/Sherlock-Holo/lightc/paths"
+	"github.com/fuguohong1024/lightc/info"
+	"github.com/fuguohong1024/lightc/paths"
 	"golang.org/x/xerrors"
 )
 

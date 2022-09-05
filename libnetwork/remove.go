@@ -5,9 +5,9 @@ import (
 	"path/filepath"
 	"syscall"
 
-	"github.com/Sherlock-Holo/lightc/libnetwork/internal/ipam"
-	"github.com/Sherlock-Holo/lightc/libnetwork/internal/nat"
-	"github.com/Sherlock-Holo/lightc/paths"
+	"github.com/fuguohong1024/lightc/libnetwork/internal/ipam"
+	"github.com/fuguohong1024/lightc/libnetwork/internal/nat"
+	"github.com/fuguohong1024/lightc/paths"
 	"github.com/sirupsen/logrus"
 	"github.com/vishvananda/netlink"
 	"golang.org/x/xerrors"

@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/Sherlock-Holo/lightc/libexec/monitor"
+	"github.com/fuguohong1024/lightc/libexec/monitor"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 )

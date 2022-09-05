@@ -5,7 +5,7 @@ import (
 	"net"
 	"os"
 
-	"github.com/Sherlock-Holo/lightc/info"
+	"github.com/fuguohong1024/lightc/info"
 	"github.com/sirupsen/logrus"
 	"golang.org/x/crypto/ssh/terminal"
 	"golang.org/x/xerrors"

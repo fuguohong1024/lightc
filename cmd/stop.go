@@ -3,7 +3,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/Sherlock-Holo/lightc/libexec"
+	"github.com/fuguohong1024/lightc/libexec"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 )

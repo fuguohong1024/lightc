@@ -3,7 +3,7 @@ package endpoint
 import (
 	"net"
 
-	"github.com/Sherlock-Holo/lightc/libnetwork/network"
+	"github.com/fuguohong1024/lightc/libnetwork/network"
 	"github.com/vishvananda/netlink"
 )
 
